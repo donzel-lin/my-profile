@@ -5,4 +5,5 @@ export const nav = [
   // { text: "css", items: [{ text: "css3", link: "/css3/" }] }, // 可嵌套二级导航
   { text: "Threejs", link: "/threejs/base/" }, // 可嵌套二级导航
   { text: "Canvas", link: "/canvas/" },
+  { text: "规划", link: "/todos/" },
 ];
